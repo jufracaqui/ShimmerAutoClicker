@@ -1,0 +1,11 @@
+{
+	"Name": "Shimmer Auto Clicker",
+	"ID": "shimmerAutoClicker",
+	"Author": "Jufracaqui",
+	"Description": "A mod that enables an autoclicker and autoclicker for shimmers (golden cookies, reindeers, etc).",
+	"ModVersion": 1,
+	"GameVersion": 2.04,
+	"Date": "05/09/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}
